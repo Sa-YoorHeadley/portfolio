@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6e536fd2.css",
+    "main.js": "/portfolio/static/js/main.62293e65.js",
+    "static/media/Meme Generator Preview.PNG": "/portfolio/static/media/Meme Generator Preview.97191e5fd79e5c2877a3.PNG",
+    "static/media/Sa-Yoor Headley's Resume.pdf": "/portfolio/static/media/Sa-Yoor Headley's Resume.bee7125bd2bdec33ba1d.pdf",
+    "static/media/JS Only Searchbar Preview.PNG": "/portfolio/static/media/JS Only Searchbar Preview.27c4155a415027a68973.PNG",
+    "static/media/Resume Preview.PNG": "/portfolio/static/media/Resume Preview.e6675cfa87a53963c210.PNG",
+    "static/media/Portfolio Preview.PNG": "/portfolio/static/media/Portfolio Preview.9b3f986e1ab1050b0516.PNG",
+    "static/media/Clockwork Preview 1.PNG": "/portfolio/static/media/Clockwork Preview 1.282233c0adbcca98d618.PNG",
+    "static/media/Tenzies Preview.PNG": "/portfolio/static/media/Tenzies Preview.9551b62b73e7efeea717.PNG",
+    "static/media/Illustration Large.png": "/portfolio/static/media/Illustration Large.a0827d4a2455f30ae033.png",
+    "static/media/Clockwork Preview 2.PNG": "/portfolio/static/media/Clockwork Preview 2.94367e09b30a06029e61.PNG",
+    "static/media/Form Validation Preview.PNG": "/portfolio/static/media/Form Validation Preview.7af7313dddcc619f48d4.PNG",
+    "static/media/Password Strength Meter Preview.PNG": "/portfolio/static/media/Password Strength Meter Preview.5a30dff3027c8b1e2cd3.PNG",
+    "static/media/polygon-bg-contact-dark.svg": "/portfolio/static/media/polygon-bg-contact-dark.8bc79d9d9a945f0943b9.svg",
+    "static/media/polygon-bg-contact-light.svg": "/portfolio/static/media/polygon-bg-contact-light.e3fa85d584e6787358ce.svg",
+    "static/media/polygon-bg-projects-dark.svg": "/portfolio/static/media/polygon-bg-projects-dark.5a2fdfc46ee16e79cfa1.svg",
+    "static/media/polygon-bg-projects-light.svg": "/portfolio/static/media/polygon-bg-projects-light.e03b4c6284460bf40583.svg",
+    "static/media/polygon-bg-hero-dark.svg": "/portfolio/static/media/polygon-bg-hero-dark.c809dabe46ebd0d319c1.svg",
+    "static/media/polygon-bg-hero-light.svg": "/portfolio/static/media/polygon-bg-hero-light.ac70f6e6cc44ec107c35.svg",
+    "static/media/polygon-bg-skills-dark.svg": "/portfolio/static/media/polygon-bg-skills-dark.27bf4c25aa793e128c85.svg",
+    "static/media/polygon-bg-skills-light.svg": "/portfolio/static/media/polygon-bg-skills-light.38870c0a54d5e3fa207a.svg",
+    "static/media/polygon-bg-footer-dark.svg": "/portfolio/static/media/polygon-bg-footer-dark.5fb448f5c9d697b3f74f.svg",
+    "static/media/polygon-bg-footer-light.svg": "/portfolio/static/media/polygon-bg-footer-light.cf0c636b3781144e51fe.svg",
+    "index.html": "/portfolio/index.html",
+    "main.6e536fd2.css.map": "/portfolio/static/css/main.6e536fd2.css.map",
+    "main.62293e65.js.map": "/portfolio/static/js/main.62293e65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e536fd2.css",
+    "static/js/main.62293e65.js"
+  ]
+}
