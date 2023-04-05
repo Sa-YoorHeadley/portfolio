@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6e536fd2.css",
-    "main.js": "/portfolio/static/js/main.35892c6c.js",
+    "main.js": "/portfolio/static/js/main.c0d2ff2c.js",
     "static/media/Meme Generator Preview.PNG": "/portfolio/static/media/Meme Generator Preview.97191e5fd79e5c2877a3.PNG",
     "static/media/JS Only Searchbar Preview.PNG": "/portfolio/static/media/JS Only Searchbar Preview.27c4155a415027a68973.PNG",
-    "static/media/Sa-Yoor Headley's Resume.pdf": "/portfolio/static/media/Sa-Yoor Headley's Resume.6182258544297234d20d.pdf",
+    "static/media/Sa-Yoor Headley's Resume.pdf": "/portfolio/static/media/Sa-Yoor Headley's Resume.03edfe7e4fb55f4834d4.pdf",
     "static/media/Resume Preview.PNG": "/portfolio/static/media/Resume Preview.e6675cfa87a53963c210.PNG",
     "static/media/Portfolio Preview.PNG": "/portfolio/static/media/Portfolio Preview.9b3f986e1ab1050b0516.PNG",
     "static/media/Clockwork Preview 1.PNG": "/portfolio/static/media/Clockwork Preview 1.282233c0adbcca98d618.PNG",
@@ -25,10 +25,10 @@
     "static/media/polygon-bg-footer-light.svg": "/portfolio/static/media/polygon-bg-footer-light.cf0c636b3781144e51fe.svg",
     "index.html": "/portfolio/index.html",
     "main.6e536fd2.css.map": "/portfolio/static/css/main.6e536fd2.css.map",
-    "main.35892c6c.js.map": "/portfolio/static/js/main.35892c6c.js.map"
+    "main.c0d2ff2c.js.map": "/portfolio/static/js/main.c0d2ff2c.js.map"
   },
   "entrypoints": [
     "static/css/main.6e536fd2.css",
-    "static/js/main.35892c6c.js"
+    "static/js/main.c0d2ff2c.js"
   ]
 }
