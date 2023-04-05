@@ -21,7 +21,8 @@ const data = {
       {name: "Express", icon: "simple-icons:express"},
     ],
     database: [
-      {name: "SQL", icon: "fontisto:mysql"}
+      {name: "SQL", icon: "fontisto:mysql"},
+      {name: "Mongo", icon: "fontisto:mongodb"}
     ],
     other: [
       {name: "Apps Script", icon: "vscode-icons:file-type-appscript"},
@@ -49,12 +50,6 @@ const data = {
       {name: "Computer Networking", icon: "mdi:server-network"},
       {name: "Computer Repair", icon: "material-symbols:home-repair-service"},
     ],
-    softSkills:[
-      {name: "Problem Solving", icon: "mdi:lightbulb-on-20"},
-      {name: "Goal Oriented", icon: "iconoir:task-list"},
-      {name: "Hard Working", icon: "mdi:weight-lifter"},
-      {name: "Fast Learner", icon: "icon-park-outline:brain"}
-    ]
   },
   majorProjects: [
     {

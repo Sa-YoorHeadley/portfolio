@@ -39,6 +39,17 @@ export default function Skills() {
                     }
                 </div>
 
+                {/* Database */}
+                <h3 className='font-medium text-sm underline mt-3'>Database</h3>
+                {/* Tiles */}
+                <div className='grid grid-cols-2 gap-2 my-4'>
+                    {
+                        data.programmingLanguagesFrameworks.database.map(item => {
+                            return <Tile key={item.name} name={item.name} icon={item.icon} width={16} height={20} />
+                        })
+                    }
+                </div>
+
                 {/* Other */}
                 <h3 className='font-medium text-sm underline mt-3'>Other</h3>
                 {/* Tiles */}
@@ -86,17 +97,6 @@ export default function Skills() {
                     {
                         data.toolsAndOtherSkills.itSkills.map(item => {
                             return <Tile key={item.name} name={item.name} icon={item.icon} width={12} height={20} />
-                        })
-                    }
-                </div>
-                
-                {/* Soft Skills */}
-                <h3 className='font-medium text-sm underline mt-3'>Soft Skills</h3>
-                {/* Tiles */}
-                <div className='grid grid-cols-4 gap-x-2 my-4'>
-                    {
-                        data.toolsAndOtherSkills.softSkills.map(item => {
-                            return <Tile key={item.name} name={item.name} icon={item.icon} width={16} height={20} />
                         })
                     }
                 </div>
