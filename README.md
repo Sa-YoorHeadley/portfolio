@@ -1,50 +1,42 @@
-# React + TypeScript + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <h1>Portfolio</h1>
+  
+  <p>
+    My Personal Portfolio
+  </p>
+  
+<!-- Badges -->
+<p>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/Sa-YoorHeadley/portfolio" alt="last update" />
+  </a>
+  <a href="https://github.com/Sa-YoorHeadley/portfolio/issues/">
+    <img src="https://img.shields.io/github/issues/Sa-YoorHeadley/portfolio" alt="open issues" />
+  </a>
+</p>
+</div>
 
-Currently, two official plugins are available:
+<br />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description 
+This is the site I created to advertise myself and show my skills in Web Development. It was built using React and Tailwind CSS
 
-## Expanding the ESLint configuration
+<br />
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<!-- Video -->
+### Dark Mode - Default
+<div align="center"> 
+  <img src="https://github.com/Sa-YoorHeadley/portfolio/blob/main/src/assets/Preview-Dark.PNG?raw=true" alt="screenshot" />
+</div>
 
-- Configure the top-level `parserOptions` property like this:
+### Light Mode
+<div align="center"> 
+  <img src="https://github.com/Sa-YoorHeadley/portfolio/blob/main/src/assets/Preview-Light.PNG?raw=true" alt="screenshot" />
+</div>
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+<br />
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+> [Live URL](https://sa-yoorheadley.github.io/portfolio/)
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+<br />
